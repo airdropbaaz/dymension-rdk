@@ -1,5 +1,4 @@
 # CODEOWNERS: https://help.github.com/articles/about-codeowners/
-
 # Everything goes through the following "global owners" by default.
 # Unless a later match takes precedence, these three will be
 # requested for review when someone opens a PR.
